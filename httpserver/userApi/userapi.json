@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "phone": "123-456-7890",
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Example City"
+      },
+      "company": {
+        "website": "https://www.example.com",
+        "name": "Example Company",
+        "bs": "Business Stuff"
+      }
+    },
+    {
+        "id": 2,
+        "name": "Jal Doe",
+        "phone": "123-456-7890",
+        "username": "jaldoe",
+        "email": "jal.foe@example.com",
+        "address": {
+          "street": "123 Main St",
+          "city": "Example City"
+        },
+        "company": {
+          "website": "https://www.example.com",
+          "name": "Example Company",
+          "bs": "Business Stuff"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Jim Doe",
+        "phone": "123-456-7890",
+        "username": "jimndoe",
+        "email": "jim.doe@example.com",
+        "address": {
+          "street": "123 Main St",
+          "city": "Example City"
+        },
+        "company": {
+          "website": "https://www.example.com",
+          "name": "Example Company",
+          "bs": "Business Stuff"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Jon Doe",
+        "phone": "123-456-7890",
+        "username": "jondoe",
+        "email": "joh\n.doe@example.com",
+        "address": {
+          "street": "123 Main St",
+          "city": "Example City"
+        },
+        "company": {
+          "website": "https://www.example.com",
+          "name": "Example Company",
+          "bs": "Business Stuff"
+        }
+      },
+      {
+        "id": 5,
+        "name": "John Don",
+        "phone": "123-456-7890",
+        "username": "johndon",
+        "email": "john.don@example.com",
+        "address": {
+          "street": "123 Main St",
+          "city": " City"
+        },
+        "company": {
+          "website": "https://www.example.com",
+          "name": "Example Company",
+          "bs": "Business Stuff"
+        }
+      }
+    
+  ]

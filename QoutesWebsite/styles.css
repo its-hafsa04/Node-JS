@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.quote-container {
+    margin: 20% auto;
+    max-width: 600px;
+}
+
+blockquote {
+    font-size: 24px;
+}
+
+button {
+    background-color: #1da1f2;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
